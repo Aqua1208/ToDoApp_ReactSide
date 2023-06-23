@@ -10,4 +10,4 @@ const Task = (props) => {
   );
 };
 
-export default Task
+export default Task;
